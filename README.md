@@ -3,7 +3,7 @@ Smart Lender - Applicant Credibility Prediction for Loan Approval
 
 Team Members:
 
-        Siddarth M
+ Siddarth M
 	
 	VarunKrishna G
 	
